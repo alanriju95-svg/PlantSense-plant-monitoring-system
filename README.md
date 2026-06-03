@@ -231,7 +231,17 @@ PlantSense
 * Multiple Plant Monitoring
 
 ---
+## Dashboard Preview
 
+![Dashboard](Dashbord.png)
+
+## Hardware Setup
+
+![Hardware](Hardware.jpeg)
+
+## Circuit Diagram
+
+![Circuit](Circuit.jpeg)
 ## 👨‍💻 Developed By
 
 **Alan**
