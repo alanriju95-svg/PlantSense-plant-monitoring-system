@@ -244,7 +244,7 @@ PlantSense
 ![Circuit](Circuit.jpeg)
 ## 👨‍💻 Developed By
 
-**Alan**
+**Alan Riju**
 
 ESP32 • IoT • Embedded Systems • Smart Agriculture
 
